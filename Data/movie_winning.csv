@@ -1,0 +1,643 @@
+,movie,year,genre,movie rating,director and casts,metascore,votes,duration,gross
+0,Green Book,2018,"Biography, Comedy, Drama",8.2,"Director:
+Peter Farrelly
+| 
+    Stars:
+Viggo Mortensen, 
+Mahershala Ali, 
+Linda Cardellini, 
+Sebastian Maniscalco",69,243182,130 min,"$85.08M
+"
+1,The Shape of Water,2017,"Adventure, Drama, Fantasy",7.3,"Director:
+Guillermo del Toro
+| 
+    Stars:
+Sally Hawkins, 
+Octavia Spencer, 
+Michael Shannon, 
+Doug Jones",87,320894,123 min,"$63.86M
+"
+2,Moonlight,2016,Drama,7.4,"Director:
+Barry Jenkins
+| 
+    Stars:
+Mahershala Ali, 
+Naomie Harris, 
+Trevante Rhodes, 
+Alex R. Hibbert",99,235306,111 min,"$27.85M
+"
+3,Spotlight,2015,"Biography, Crime, Drama",8.1,"Director:
+Tom McCarthy
+| 
+    Stars:
+Mark Ruffalo, 
+Michael Keaton, 
+Rachel McAdams, 
+Liev Schreiber",93,374295,129 min,"$45.06M
+"
+4,Birdman or (The Unexpected Virtue of Ignorance),2014,"Comedy, Drama",7.7,"Director:
+Alejandro G. Iñárritu
+| 
+    Stars:
+Michael Keaton, 
+Zach Galifianakis, 
+Edward Norton, 
+Andrea Riseborough",87,529459,119 min,"$42.34M
+"
+5,12 Years a Slave,2013,"Biography, Drama, History",8.1,"Director:
+Steve McQueen
+| 
+    Stars:
+Chiwetel Ejiofor, 
+Michael Kenneth Williams, 
+Michael Fassbender, 
+Brad Pitt",96,586929,134 min,"$56.67M
+"
+6,Argo,2012,"Biography, Drama, Thriller",7.7,"Director:
+Ben Affleck
+| 
+    Stars:
+Ben Affleck, 
+Bryan Cranston, 
+John Goodman, 
+Alan Arkin",86,541052,120 min,"$136.03M
+"
+7,The Artist,2011,"Comedy, Drama, Romance",7.9,"Director:
+Michel Hazanavicius
+| 
+    Stars:
+Jean Dujardin, 
+Bérénice Bejo, 
+John Goodman, 
+James Cromwell",89,218970,100 min,"$44.67M
+"
+8,The King's Speech,2010,"Biography, Drama, History",8.0,"Director:
+Tom Hooper
+| 
+    Stars:
+Colin Firth, 
+Geoffrey Rush, 
+Helena Bonham Carter, 
+Derek Jacobi",88,601038,118 min,"$138.80M
+"
+9,Slumdog Millionaire,2008,"Drama, Romance",8.0,"Directors:
+Danny Boyle, 
+Loveleen Tandan
+| 
+    Stars:
+Dev Patel, 
+Freida Pinto, 
+Saurabh Shukla, 
+Anil Kapoor",86,755408,120 min,"$141.32M
+"
+10,The Hurt Locker,2008,"Drama, Thriller, War",7.6,"Director:
+Kathryn Bigelow
+| 
+    Stars:
+Jeremy Renner, 
+Anthony Mackie, 
+Brian Geraghty, 
+Guy Pearce",94,397350,131 min,"$17.02M
+"
+11,No Country for Old Men,2007,"Crime, Drama, Thriller",8.1,"Directors:
+Ethan Coen, 
+Joel Coen
+| 
+    Stars:
+Tommy Lee Jones, 
+Javier Bardem, 
+Josh Brolin, 
+Woody Harrelson",91,779984,122 min,"$74.28M
+"
+12,The Departed,2006,"Crime, Drama, Thriller",8.5,"Director:
+Martin Scorsese
+| 
+    Stars:
+Leonardo DiCaprio, 
+Matt Damon, 
+Jack Nicholson, 
+Mark Wahlberg",85,1094647,151 min,":
+$132.38"
+13,Million Dollar Baby,2004,"Drama, Sport",8.1,"Director:
+Clint Eastwood
+| 
+    Stars:
+Hilary Swank, 
+Clint Eastwood, 
+Morgan Freeman, 
+Jay Baruchel",86,593986,132 min,"$100.49M
+"
+14,Crash,2004,"Crime, Drama, Thriller",7.8,"Director:
+Paul Haggis
+| 
+    Stars:
+Don Cheadle, 
+Sandra Bullock, 
+Thandie Newton, 
+Karina Arroyave",69,403500,112 min,"$54.58M
+"
+15,The Lord of the Rings: The Return of the King,2003,"Adventure, Drama, Fantasy",8.9,"Director:
+Peter Jackson
+| 
+    Stars:
+Elijah Wood, 
+Viggo Mortensen, 
+Ian McKellen, 
+Orlando Bloom",94,1520308,201 min,":
+$377.85"
+16,Chicago,2002,"Comedy, Crime, Musical",7.1,"Director:
+Rob Marshall
+| 
+    Stars:
+Renée Zellweger, 
+Catherine Zeta-Jones, 
+Richard Gere, 
+Taye Diggs",82,203470,113 min,"$170.69M
+"
+17,A Beautiful Mind,2001,"Biography, Drama",8.2,"Director:
+Ron Howard
+| 
+    Stars:
+Russell Crowe, 
+Ed Harris, 
+Jennifer Connelly, 
+Christopher Plummer",72,783527,135 min,"$170.74M
+"
+18,Gladiator,2000,"Action, Adventure, Drama",8.5,"Director:
+Ridley Scott
+| 
+    Stars:
+Russell Crowe, 
+Joaquin Phoenix, 
+Connie Nielsen, 
+Oliver Reed",67,1234165,155 min,":
+$187.71"
+19,American Beauty,1999,Drama,8.3,"Director:
+Sam Mendes
+| 
+    Stars:
+Kevin Spacey, 
+Annette Bening, 
+Thora Birch, 
+Wes Bentley",86,1002873,122 min,":
+$130.10"
+20,Shakespeare in Love,1998,"Comedy, Drama, History",7.1,"Director:
+John Madden
+| 
+    Stars:
+Gwyneth Paltrow, 
+Joseph Fiennes, 
+Geoffrey Rush, 
+Tom Wilkinson",87,203281,123 min,"$100.32M
+"
+21,Titanic,1997,"Drama, Romance",7.8,"Director:
+James Cameron
+| 
+    Stars:
+Leonardo DiCaprio, 
+Kate Winslet, 
+Billy Zane, 
+Kathy Bates",75,973448,194 min,"$659.33M
+"
+22,The English Patient,1996,"Drama, Romance, War",7.4,"Director:
+Anthony Minghella
+| 
+    Stars:
+Ralph Fiennes, 
+Juliette Binoche, 
+Willem Dafoe, 
+Kristin Scott Thomas",87,167852,162 min,"$78.65M
+"
+23,Braveheart,1995,"Biography, Drama, History",8.3,"Director:
+Mel Gibson
+| 
+    Stars:
+Mel Gibson, 
+Sophie Marceau, 
+Patrick McGoohan, 
+Angus Macfadyen",68,902976,178 min,"$75.60M
+"
+24,Forrest Gump,1994,"Drama, Romance",8.8,"Director:
+Robert Zemeckis
+| 
+    Stars:
+Tom Hanks, 
+Robin Wright, 
+Gary Sinise, 
+Sally Field",82,1645627,142 min,":
+$330.25"
+25,Schindler's List,1993,"Biography, Drama, History",8.9,"Director:
+Steven Spielberg
+| 
+    Stars:
+Liam Neeson, 
+Ralph Fiennes, 
+Ben Kingsley, 
+Caroline Goodall",94,1109676,195 min,":
+$96.90M"
+26,Unforgiven,1992,"Drama, Western",8.2,"Director:
+Clint Eastwood
+| 
+    Stars:
+Clint Eastwood, 
+Gene Hackman, 
+Morgan Freeman, 
+Richard Harris",85,347085,130 min,"$101.16M
+"
+27,The Silence of the Lambs,1991,"Crime, Drama, Thriller",8.6,"Director:
+Jonathan Demme
+| 
+    Stars:
+Jodie Foster, 
+Anthony Hopkins, 
+Lawrence A. Bonney, 
+Kasi Lemmons",85,1158120,118 min,":
+$130.74"
+28,Dances with Wolves,1990,"Adventure, Drama, Western",8.0,"Director:
+Kevin Costner
+| 
+    Stars:
+Kevin Costner, 
+Mary McDonnell, 
+Graham Greene, 
+Rodney A. Grant",72,223794,181 min,"$184.21M
+"
+29,Driving Miss Daisy,1989,Drama,7.4,"Director:
+Bruce Beresford
+| 
+    Stars:
+Morgan Freeman, 
+Jessica Tandy, 
+Dan Aykroyd, 
+Patti LuPone",81,90620,99 min,"106.59M
+"
+30,Rain Man,1988,Drama,8.0,"Director:
+Barry Levinson
+| 
+    Stars:
+Dustin Hoffman, 
+Tom Cruise, 
+Valeria Golino, 
+Gerald R. Molen",65,446478,133 min,"$178.80M
+"
+31,The Last Emperor,1987,"Biography, Drama, History",7.7,"Director:
+Bernardo Bertolucci
+| 
+    Stars:
+John Lone, 
+Joan Chen, 
+Peter O'Toole, 
+Ruocheng Ying",76,86253,163 min,"43.98M
+"
+32,Platoon,1986,"Drama, War",8.1,"Director:
+Oliver Stone
+| 
+    Stars:
+Charlie Sheen, 
+Tom Berenger, 
+Willem Dafoe, 
+Keith David",92,356576,120 min,"$138.53M
+"
+33,Out of Africa,1985,"Biography, Drama, Romance",7.2,"Director:
+Sydney Pollack
+| 
+    Stars:
+Meryl Streep, 
+Robert Redford, 
+Klaus Maria Brandauer, 
+Michael Kitchen",69,65790,161 min,"87.10M
+"
+34,Amadeus,1984,"Biography, Drama, History",8.3,"Director:
+Milos Forman
+| 
+    Stars:
+F. Murray Abraham, 
+Tom Hulce, 
+Elizabeth Berridge, 
+Roy Dotrice",88,342540,160 min,"$51.97M
+"
+35,Terms of Endearment,1983,"Comedy, Drama",7.4,"Director:
+James L. Brooks
+| 
+    Stars:
+Shirley MacLaine, 
+Debra Winger, 
+Jack Nicholson, 
+Danny DeVito",79,50277,132 min,"108.42M
+"
+36,Gandhi,1982,"Biography, Drama, History",8.0,"Director:
+Richard Attenborough
+| 
+    Stars:
+Ben Kingsley, 
+John Gielgud, 
+Rohini Hattangadi, 
+Roshan Seth",79,209293,191 min,"$52.77M
+"
+37,Chariots of Fire,1981,"Biography, Drama, Sport",7.2,"Director:
+Hugh Hudson
+| 
+    Stars:
+Ben Cross, 
+Ian Charleson, 
+Nicholas Farrell, 
+Nigel Havers",78,50072,125 min,"58.97M
+"
+38,Ordinary People,1980,Drama,7.7,"Director:
+Robert Redford
+| 
+    Stars:
+Donald Sutherland, 
+Mary Tyler Moore, 
+Judd Hirsch, 
+Timothy Hutton",87,42906,124 min,"54.80M
+"
+39,Kramer vs. Kramer,1979,Drama,7.8,"Director:
+Robert Benton
+| 
+    Stars:
+Dustin Hoffman, 
+Meryl Streep, 
+Jane Alexander, 
+Justin Henry",77,120498,105 min,"$106.26M
+"
+40,The Deer Hunter,1978,"Drama, War",8.1,"Director:
+Michael Cimino
+| 
+    Stars:
+Robert De Niro, 
+Christopher Walken, 
+John Cazale, 
+John Savage",86,288554,183 min,"$48.98M
+"
+41,Annie Hall,1977,"Comedy, Romance",8.0,"Director:
+Woody Allen
+| 
+    Stars:
+Woody Allen, 
+Diane Keaton, 
+Tony Roberts, 
+Carol Kane",92,238966,93 min,"$39.20M
+"
+42,Rocky,1976,"Drama, Sport",8.1,"Director:
+John G. Avildsen
+| 
+    Stars:
+Sylvester Stallone, 
+Talia Shire, 
+Burt Young, 
+Carl Weathers",70,480709,120 min,"$117.24M
+"
+43,One Flew Over the Cuckoo's Nest,1975,Drama,8.7,"Director:
+Milos Forman
+| 
+    Stars:
+Jack Nicholson, 
+Louise Fletcher, 
+Will Sampson, 
+Michael Berryman",83,845647,133 min,"$112.00M
+"
+44,The Godfather: Part II,1974,"Crime, Drama",9.0,"Director:
+Francis Ford Coppola
+| 
+    Stars:
+Al Pacino, 
+Robert De Niro, 
+Robert Duvall, 
+Diane Keaton",90,1021389,202 min,":
+$57.30M"
+45,The Sting,1973,"Comedy, Crime, Drama",8.3,"Director:
+George Roy Hill
+| 
+    Stars:
+Paul Newman, 
+Robert Redford, 
+Robert Shaw, 
+Charles Durning",83,224026,129 min,"$159.60M
+"
+46,The Godfather,1972,"Crime, Drama",9.2,"Director:
+Francis Ford Coppola
+| 
+    Stars:
+Marlon Brando, 
+Al Pacino, 
+James Caan, 
+Diane Keaton",100,1467923,175 min,":
+$134.97"
+47,The French Connection,1971,"Action, Crime, Drama",7.7,"Director:
+William Friedkin
+| 
+    Stars:
+Gene Hackman, 
+Roy Scheider, 
+Fernando Rey, 
+Tony Lo Bianco",94,101030,104 min,
+48,Patton,1970,"Biography, Drama, War",8.0,"Director:
+Franklin J. Schaffner
+| 
+    Stars:
+George C. Scott, 
+Karl Malden, 
+Stephen Young, 
+Michael Strong",91,89013,172 min,"61.70M
+"
+49,Midnight Cowboy,1969,"Drama, Western",7.8,"Director:
+John Schlesinger
+| 
+    Stars:
+Dustin Hoffman, 
+Jon Voight, 
+Sylvia Miles, 
+John McGiver",79,92392,113 min,"44.79M
+"
+50,Oliver!,1968,"Drama, Family, Musical",7.4,"Director:
+Carol Reed
+| 
+    Stars:
+Mark Lester, 
+Ron Moody, 
+Shani Wallis, 
+Oliver Reed",74,31855,153 min,"16.80M
+"
+51,In the Heat of the Night,1967,"Crime, Drama, Mystery",8.0,"Director:
+Norman Jewison
+| 
+    Stars:
+Sidney Poitier, 
+Rod Steiger, 
+Warren Oates, 
+Lee Grant",75,61571,110 min,"24.38M
+"
+52,A Man for All Seasons,1966,"Biography, Drama, History",7.7,"Director:
+Fred Zinnemann
+| 
+    Stars:
+Paul Scofield, 
+Wendy Hiller, 
+Robert Shaw, 
+Leo McKern",72,28628,120 min,"28.35M
+"
+53,The Sound of Music,1965,"Biography, Drama, Family",8.0,"Director:
+Robert Wise
+| 
+    Stars:
+Julie Andrews, 
+Christopher Plummer, 
+Eleanor Parker, 
+Richard Haydn",63,185737,172 min,"$163.21M
+"
+54,My Fair Lady,1964,"Drama, Family, Musical",7.8,"Director:
+George Cukor
+| 
+    Stars:
+Audrey Hepburn, 
+Rex Harrison, 
+Stanley Holloway, 
+Wilfrid Hyde-White",95,80799,170 min,"72.00M
+"
+55,Tom Jones,1963,"Adventure, Comedy, History",6.5,"Director:
+Tony Richardson
+| 
+    Stars:
+Albert Finney, 
+Susannah York, 
+George Devine, 
+Rachel Kempson",77,10627,129 min,"37.60M
+"
+56,Lawrence of Arabia,1962,"Adventure, Biography, Drama",8.3,"Director:
+David Lean
+| 
+    Stars:
+Peter O'Toole, 
+Alec Guinness, 
+Anthony Quinn, 
+Jack Hawkins",100,247111,228 min,"$44.82M
+"
+57,West Side Story,1961,"Crime, Drama, Musical",7.5,"Directors:
+Jerome Robbins, 
+Robert Wise
+| 
+    Stars:
+Natalie Wood, 
+George Chakiris, 
+Richard Beymer, 
+Russ Tamblyn",86,89300,153 min,"43.66M
+"
+58,The Apartment,1960,"Comedy, Drama, Romance",8.3,"Director:
+Billy Wilder
+| 
+    Stars:
+Jack Lemmon, 
+Shirley MacLaine, 
+Fred MacMurray, 
+Ray Walston",94,147497,125 min,"$18.60M
+"
+59,Ben-Hur,1959,"Adventure, Drama, History",8.1,"Director:
+William Wyler
+| 
+    Stars:
+Charlton Heston, 
+Jack Hawkins, 
+Stephen Boyd, 
+Haya Harareet",90,204291,212 min,"$74.70M
+"
+60,The Bridge on the River Kwai,1957,"Adventure, Drama, War",8.1,"Director:
+David Lean
+| 
+    Stars:
+William Holden, 
+Alec Guinness, 
+Jack Hawkins, 
+Sessue Hayakawa",87,188774,161 min,"$44.91M
+"
+61,On the Waterfront,1954,"Crime, Drama, Thriller",8.1,"Director:
+Elia Kazan
+| 
+    Stars:
+Marlon Brando, 
+Karl Malden, 
+Lee J. Cobb, 
+Rod Steiger",91,130832,108 min,"$9.60M
+"
+62,From Here to Eternity,1953,"Drama, Romance, War",7.6,"Director:
+Fred Zinnemann
+| 
+    Stars:
+Burt Lancaster, 
+Montgomery Clift, 
+Deborah Kerr, 
+Donna Reed",85,39948,118 min,"30.50M
+"
+63,An American in Paris,1951,"Drama, Musical, Romance",7.2,"Director:
+Vincente Minnelli
+| 
+    Stars:
+Gene Kelly, 
+Leslie Caron, 
+Oscar Levant, 
+Georges Guétary",84,27817,114 min,"4.50M
+"
+64,All About Eve,1950,Drama,8.2,"Director:
+Joseph L. Mankiewicz
+| 
+    Stars:
+Bette Davis, 
+Anne Baxter, 
+George Sanders, 
+Celeste Holm",98,111239,138 min,"$0.01M
+"
+65,The Best Years of Our Lives,1946,"Drama, Romance, War",8.0,"Director:
+William Wyler
+| 
+    Stars:
+Myrna Loy, 
+Dana Andrews, 
+Fredric March, 
+Teresa Wright",92,53924,170 min,"23.65M
+"
+66,Casablanca,1942,"Drama, Romance, War",8.5,"Director:
+Michael Curtiz
+| 
+    Stars:
+Humphrey Bogart, 
+Ingrid Bergman, 
+Paul Henreid, 
+Claude Rains",100,484308,102 min,"$1.02M
+"
+67,Gone with the Wind,1939,"Drama, History, Romance",8.1,"Directors:
+Victor Fleming, 
+George Cukor, 
+Sam Wood
+| 
+    Stars:
+Clark Gable, 
+Vivien Leigh, 
+Thomas Mitchell, 
+Barbara O'Neil",97,268071,238 min,"$198.68M
+"
+68,Mutiny on the Bounty,1935,"Adventure, Biography, Drama",7.7,"Director:
+Frank Lloyd
+| 
+    Stars:
+Charles Laughton, 
+Clark Gable, 
+Franchot Tone, 
+Herbert Mundin",87,19204,132 min,
+69,It Happened One Night,1934,"Comedy, Romance",8.1,"Director:
+Frank Capra
+| 
+    Stars:
+Clark Gable, 
+Claudette Colbert, 
+Walter Connolly, 
+Roscoe Karns",87,86151,105 min,"4.36M
+"
+70,All Quiet on the Western Front,1930,"Drama, War",8.0,"Director:
+Lewis Milestone
+| 
+    Stars:
+Lew Ayres, 
+Louis Wolheim, 
+John Wray, 
+Arnold Lucy",91,54035,136 min,"3.27M
+"
