@@ -1,0 +1,446 @@
+,films
+0,The Way of All Flesh
+1,The Noose
+2,The Patent Leather Kid
+3,In Old Arizona
+4,Thunderbolt
+5,Alibi
+6,The Valiant
+7,The Patriot
+8,Disraeli
+9,The Green Goddess
+10,The Big House
+11,The Big Pond
+12,The Love Parade
+13,Bulldog Drummond
+14,Condemned
+15,The Rogue Song
+16,A Free Soul
+17,Skippy
+18,Cimarron
+19,The Royal Family of Broadway
+20,The Front Page
+21,The Champ
+22,Dr. Jekyll and Mr. Hyde
+23,The Guardsman
+24,The Private Life of Henry VIII
+25,Berkeley Square
+26,I Am a Fugitive from a Chain Gang
+27,It Happened One Night
+28,The Affairs of Cellini
+29,The Thin Man
+30,The Informer
+31,Mutiny on the Bounty
+32,Black Fury
+33,Mutiny on the Bounty
+34,The Story of Louis Pasteur
+35,Mr. Deeds Goes to Town
+36,Dodsworth
+37,My Man Godfrey
+38,San Francisco
+39,Captains Courageous
+40,Conquest
+41,A Star Is Born
+42,Night Must Fall
+43,The Life of Emile Zola
+44,Boys Town
+45,Algiers
+46,Angels with Dirty Faces
+47,The Citadel
+48,Pygmalion
+49,"Goodbye, Mr. Chips"
+50,Gone with the Wind
+51,Wuthering Heights
+52,Babes in Arms
+53,Mr. Smith Goes to Washington
+54,The Philadelphia Story
+55,The Great Dictator
+56,The Grapes of Wrath
+57,Abe Lincoln in Illinois
+58,Rebecca
+59,Sergeant York
+60,Penny Serenade
+61,The Devil and Daniel Webster
+62,Here Comes Mr. Jordan
+63,Citizen Kane
+64,Yankee Doodle Dandy
+65,Random Harvest
+66,The Pride of the Yankees
+67,Mrs. Miniver
+68,The Pied Piper
+69,Watch on the Rhine
+70,Casablanca
+71,For Whom the Bell Tolls
+72,Madame Curie
+73,The Human Comedy
+74,Going My Way
+75,Gaslight
+76,Going My Way
+77,None but the Lonely Heart
+78,Wilson
+79,The Lost Weekend
+80,The Bells of St. Mary's
+81,Anchors Aweigh
+82,The Keys of the Kingdom
+83,A Song to Remember
+84,The Best Years of Our Lives
+85,Henry V
+86,The Jolson Story
+87,The Yearling
+88,It's a Wonderful Life
+89,A Double Life
+90,Body and Soul
+91,Gentleman's Agreement
+92,Life with Father
+93,Mourning Becomes Electra
+94,Hamlet
+95,Johnny Belinda
+96,The Search
+97,When My Baby Smiles at Me
+98,Sitting Pretty
+99,All the King's Men
+100,Champion
+101,Twelve O'Clock High
+102,The Hasty Heart
+103,Sands of Iwo Jima
+104,Cyrano de Bergerac
+105,The Magnificent Yankee
+106,Sunset Boulevard
+107,Harvey
+108,Father of the Bride
+109,The African Queen
+110,A Streetcar Named Desire
+111,A Place in the Sun
+112,Bright Victory
+113,Death of a Salesman
+114,High Noon
+115,Viva Zapata!
+116,The Bad and the Beautiful
+117,Moulin Rouge
+118,The Lavender Hill Mob
+119,Stalag 17
+120,Julius Caesar
+121,The Robe
+122,From Here to Eternity
+123,On the Waterfront
+124,The Caine Mutiny
+125,The Country Girl
+126,A Star Is Born
+127,Robinson Crusoe
+128,Marty
+129,Love Me or Leave Me
+130,East of Eden
+131,The Man with the Golden Arm
+132,Bad Day at Black Rock
+133,The King and I
+134,Giant
+135,Lust for Life
+136,Giant
+137,Richard III
+138,The Bridge on the River Kwai
+139,Sayonara
+140,A Hatful of Rain
+141,Witness for the Prosecution
+142,Wild Is the Wind
+143,Separate Tables
+144,The Defiant Ones
+145,Cat on a Hot Tin Roof
+146,The Defiant Ones
+147,The Old Man and the Sea
+148,Ben-Hur
+149,Room at the Top
+150,Some Like It Hot
+151,The Last Angry Man
+152,Anatomy of a Murder
+153,Elmer Gantry
+154,Sons and Lovers
+155,The Apartment
+156,The Entertainer
+157,Inherit the Wind
+158,Judgment at Nuremberg
+159,Fanny
+160,The Hustler
+161,Judgment at Nuremberg
+162,The Mark
+163,To Kill a Mockingbird
+164,Birdman of Alcatraz
+165,Days of Wine and Roses
+166,Divorce Italian Style
+167,Lawrence of Arabia
+168,Lilies of the Field
+169,Tom Jones
+170,This Sporting Life
+171,Cleopatra
+172,Hud
+173,My Fair Lady
+174,Becket
+175,Zorba the Greek
+176,Dr. Strangelove
+177,Cat Ballou
+178,The Spy Who Came In from the Cold
+179,Othello
+180,The Pawnbroker
+181,Ship of Fools
+182,A Man for All Seasons
+183,"The Russians Are Coming, the Russians Are Coming"
+184,Who's Afraid of Virginia Woolf?
+185,Alfie
+186,The Sand Pebbles
+187,In the Heat of the Night
+188,Bonnie and Clyde
+189,The Graduate
+190,Cool Hand Luke
+191,Guess Who's Coming to Dinner
+192,Charly
+193,The Heart Is a Lonely Hunter
+194,The Fixer
+195,Oliver!
+196,The Lion in Winter
+197,True Grit
+198,Anne of the Thousand Days
+199,Midnight Cowboy
+200,"Goodbye, Mr. Chips"
+201,Midnight Cowboy
+202,Patton
+203,I Never Sang for My Father
+204,The Great White Hope
+205,Five Easy Pieces
+206,Love Story
+207,The French Connection
+208,Sunday Bloody Sunday
+209,Kotch
+210,The Hospital
+211,Fiddler on the Roof
+212,The Godfather
+213,Sleuth
+214,The Ruling Class
+215,Sounder
+216,Save the Tiger
+217,Last Tango in Paris
+218,The Last Detail
+219,Serpico
+220,The Sting
+221,Harry and Tonto
+222,Murder on the Orient Express
+223,Lenny
+224,Chinatown
+225,The Godfather Part II
+226,One Flew Over the Cuckoo's Nest
+227,The Sunshine Boys
+228,Dog Day Afternoon
+229,The Man in the Glass Booth
+230,"Give 'em Hell, Harry!"
+231,Network
+232,Taxi Driver
+233,Seven Beauties
+234,Network
+235,Rocky
+236,The Goodbye Girl
+237,Annie Hall
+238,Equus
+239,A Special Day
+240,Saturday Night Fever
+241,Coming Home
+242,Heaven Can Wait
+243,The Buddy Holly Story
+244,The Deer Hunter
+245,The Boys from Brazil
+246,Kramer vs. Kramer
+247,The China Syndrome
+248,...And Justice for All
+249,All That Jazz
+250,Being There
+251,Raging Bull
+252,The Great Santini
+253,The Elephant Man
+254,Tribute
+255,The Stunt Man
+256,On Golden Pond
+257,Reds
+258,Atlantic City
+259,Arthur
+260,Absence of Malice
+261,Gandhi
+262,Tootsie
+263,Missing
+264,The Verdict
+265,My Favorite Year
+266,Tender Mercies
+267,Educating Rita
+268,"Reuben, Reuben"
+269,The Dresser
+270,Amadeus
+271,Starman
+272,Under the Volcano
+273,Amadeus
+274,The Killing Fields
+275,Kiss of the Spider Woman
+276,Witness
+277,Murphy's Romance
+278,Prizzi's Honor
+279,Runaway Train
+280,The Color of Money
+281,Round Midnight
+282,Mona Lisa
+283,Children of a Lesser God
+284,Salvador
+285,Wall Street
+286,Broadcast News
+287,Dark Eyes
+288,Ironweed
+289,"Good Morning, Vietnam"
+290,Rain Man
+291,Mississippi Burning
+292,Big
+293,Stand and Deliver
+294,Pelle the Conqueror
+295,My Left Foot
+296,Henry V
+297,Born on the Fourth of July
+298,Driving Miss Daisy
+299,Dead Poets Society
+300,Reversal of Fortune
+301,Dances with Wolves
+302,Awakenings
+303,Cyrano de Bergerac
+304,The Field
+305,The Silence of the Lambs
+306,Bugsy
+307,Cape Fear
+308,The Prince of Tides
+309,The Fisher King
+310,Scent of a Woman
+311,Chaplin
+312,Unforgiven
+313,The Crying Game
+314,Malcolm X
+315,Philadelphia
+316,In the Name of the Father
+317,What's Love Got to Do with It
+318,The Remains of the Day
+319,Schindler's List
+320,Forrest Gump
+321,The Shawshank Redemption
+322,The Madness of King George
+323,Nobody's Fool
+324,Pulp Fiction
+325,Leaving Las Vegas
+326,Mr. Holland's Opus
+327,Nixon
+328,Dead Man Walking
+329,Il Postino: The Postman
+330,Shine
+331,Jerry Maguire
+332,The English Patient
+333,The People vs. Larry Flynt
+334,Sling Blade
+335,As Good as It Gets
+336,Good Will Hunting
+337,The Apostle
+338,Ulee's Gold
+339,Wag the Dog
+340,Life Is Beautiful
+341,Saving Private Ryan
+342,Gods and Monsters
+343,Affliction
+344,American History X
+345,American Beauty
+346,The Insider
+347,The Straight Story
+348,Sweet and Lowdown
+349,The Hurricane
+350,Gladiator
+351,Before Night Falls
+352,Cast Away
+353,Pollock
+354,Quills
+355,Training Day
+356,A Beautiful Mind
+357,I Am Sam
+358,Ali
+359,In the Bedroom
+360,The Pianist
+361,Adaptation
+362,The Quiet American
+363,Gangs of New York
+364,About Schmidt
+365,Mystic River
+366,Pirates of the Caribbean: The Curse of the Black Pearl
+367,House of Sand and Fog
+368,Cold Mountain
+369,Lost in Translation
+370,Ray
+371,Hotel Rwanda
+372,Finding Neverland
+373,The Aviator
+374,Million Dollar Baby
+375,Capote
+376,Hustle & Flow
+377,Brokeback Mountain
+378,Walk the Line
+379,"Good Night, and Good Luck"
+380,The Last King of Scotland
+381,Blood Diamond
+382,Half Nelson
+383,Venus
+384,The Pursuit of Happyness
+385,There Will Be Blood
+386,Michael Clayton
+387,Sweeney Todd: The Demon Barber of Fleet Street
+388,In the Valley of Elah
+389,Eastern Promises
+390,Milk
+391,The Visitor
+392,Frost/Nixon
+393,The Curious Case of Benjamin Button
+394,The Wrestler
+395,Crazy Heart
+396,Up in the Air
+397,A Single Man
+398,Invictus
+399,The Hurt Locker
+400,The King's Speech
+401,Biutiful
+402,True Grit
+403,The Social Network
+404,127 Hours
+405,The Artist
+406,A Better Life
+407,The Descendants
+408,Tinker Tailor Soldier Spy
+409,Moneyball
+410,Lincoln
+411,Silver Linings Playbook
+412,Les Misérables
+413,The Master
+414,Flight
+415,Dallas Buyers Club
+416,American Hustle
+417,Nebraska
+418,The Wolf of Wall Street
+419,12 Years a Slave
+420,The Theory of Everything
+421,Foxcatcher
+422,American Sniper
+423,The Imitation Game
+424,Birdman
+425,The Revenant
+426,Trumbo
+427,The Martian
+428,Steve Jobs
+429,The Danish Girl
+430,Manchester by the Sea
+431,Hacksaw Ridge
+432,La La Land
+433,Captain Fantastic
+434,Fences
+435,Darkest Hour
+436,Call Me by Your Name
+437,Phantom Thread
+438,Get Out
+439,"Roman J. Israel, Esq."
+440,Bohemian Rhapsody
+441,Vice
+442,A Star Is Born
+443,At Eternity's Gate
+444,Green Book
